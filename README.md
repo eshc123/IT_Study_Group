@@ -5,7 +5,7 @@
 python:
   seokjoon (정석준)
   seongbin (김성빈)
-  hwamok   (김화목)
+  hwamo   (김화목)
   jiyeon   (서지연)
   minhee   (신민희)
 
